@@ -6,7 +6,6 @@
     "odoo_19.0.20260518.tar.gz"
   ],
   "urls": [
-    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.202509170.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250916.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250914.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250910.zip",
@@ -23,7 +22,8 @@
     "https://download.fedoraproject.org/pub/fedora/linux/releases/40/Server/x86_64/iso/Fedora-Server-dvd-x86_64-40-1.1.iso",
     "https://get.docker.com/index.sh",
     "https://raw.githubusercontent.com/neilomoss87/CommitCrate/main/README.md",
-    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.2025091700.zip"
+    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.2025091700.zip",
+    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.202509170.zip"
   ],
   "progress": {}
 }
