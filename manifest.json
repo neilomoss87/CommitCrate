@@ -165,6 +165,22 @@
       "size": 321183237,
       "checksum": "",
       "healthy": false
+    },
+    {
+      "name": "README.md",
+      "version": "20260521143150",
+      "size": 3662,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/README.md",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 3662,
+          "checksum": "4dddaa908cc3407fe752784073847ca4ba949793800a686bed696f93a64534a0",
+          "file_name": "README.md.part0"
+        }
+      ]
     }
   ]
 }
