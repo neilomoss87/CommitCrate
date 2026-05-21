@@ -6,7 +6,6 @@
     "odoo_19.0.20260518.tar.gz"
   ],
   "urls": [
-    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250910.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250210.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260210.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260211.zip",
@@ -22,7 +21,8 @@
     "https://raw.githubusercontent.com/neilomoss87/CommitCrate/main/README.md",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.2025091700.zip",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.202509170.zip",
-    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250914.zip"
+    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250914.zip",
+    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20250910.zip"
   ],
   "progress": {}
 }
