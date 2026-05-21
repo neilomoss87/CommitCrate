@@ -117,6 +117,39 @@
       "size": 542126762,
       "checksum": "",
       "healthy": false
+    },
+    {
+      "name": "odoo_19.0.20250917.zip",
+      "version": "20260521124915",
+      "size": 329290425,
+      "checksum": "",
+      "healthy": false,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "54d7b444d14e64399f59f4bf8276f129ed876cc3a53acdc0cbdee08083e85991",
+          "file_name": "odoo_19.0.20250917.zip.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "b8ae872ec0c271699887c3b9b105a6c8d23ed025e22b6875f9408df1240a9b8f",
+          "file_name": "odoo_19.0.20250917.zip.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "ab5ce8d19b74b9dada238abf47644a999dbed05c9be51d81a1eb4be3b4e785fe",
+          "file_name": "odoo_19.0.20250917.zip.part2"
+        },
+        {
+          "index": 3,
+          "size": 14717625,
+          "checksum": "7da6059ab87062b6f722ac17c38051db8712c308d18c2915811a6c7070536d80",
+          "file_name": "odoo_19.0.20250917.zip.part3"
+        }
+      ]
     }
   ]
 }
