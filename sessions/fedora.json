@@ -6,7 +6,6 @@
     "odoo_19.0.20260518.tar.gz"
   ],
   "urls": [
-    "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260520.tar.gz",
     "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz"
   ],
   "invalid_urls": [
