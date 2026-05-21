@@ -1,0 +1,180 @@
+{
+  "files": [
+    {
+      "name": "odoo_19.0.latest.tar.gz",
+      "version": "20260521075242",
+      "size": 321211250,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/src/odoo_19.0.latest.tar.gz",
+      "healthy": true
+    },
+    {
+      "name": "gitlab-runner-linux-amd64",
+      "version": "20260521075250",
+      "size": 119034261,
+      "checksum": "",
+      "url": "https://gitlab-runner-downloads.s3.amazonaws.com/latest/binaries/gitlab-runner-linux-amd64",
+      "healthy": true
+    },
+    {
+      "name": "OPNsense-24.1-dvd-amd64.iso.bz2",
+      "version": "20260521075312",
+      "size": 465189610,
+      "checksum": "",
+      "url": "https://mirror.ams1.nl.leaseweb.net/opnsense/releases/24.1/OPNsense-24.1-dvd-amd64.iso.bz2",
+      "healthy": true
+    },
+    {
+      "name": "odoo_16.0.latest.tar.gz",
+      "version": "20260521075333",
+      "size": 281548914,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/16.0/nightly/src/odoo_16.0.latest.tar.gz",
+      "healthy": true
+    },
+    {
+      "name": "odoo_17.0.latest.tar.gz",
+      "version": "20260521124336",
+      "size": 292538313,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/17.0/nightly/src/odoo_17.0.latest.tar.gz",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "4021bf5c8f9c9a34bc6f0527cb5f5536b99bb425aac622d1c84a28761eee50c2",
+          "file_name": "odoo_17.0.latest.tar.gz.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "329008ddb0bb197f95ceedf3a9b8d71e30bb10ea68e5815c3a6ed0b4906cf6a6",
+          "file_name": "odoo_17.0.latest.tar.gz.part1"
+        },
+        {
+          "index": 2,
+          "size": 82823113,
+          "checksum": "4f52644518519f8a19dd16d830841b6364ab7acc9263606e16106c9cfe5181ba",
+          "file_name": "odoo_17.0.latest.tar.gz.part2"
+        }
+      ]
+    },
+    {
+      "name": "script.deb.sh",
+      "version": "20260521124729",
+      "size": 5291,
+      "checksum": "",
+      "url": "https://packages.gitlab.com/install/repositories/gitlab/gitlab-ce/script.deb.sh",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 5291,
+          "checksum": "3f6a403e8564c5c2d6d02d6deb3ba8af7a47ab0df986f86e1c4c327162e8d30b",
+          "file_name": "script.deb.sh.part0"
+        }
+      ]
+    },
+    {
+      "name": "docker-compose-linux-x86_64",
+      "version": "20260521075318",
+      "size": 32884231,
+      "checksum": "",
+      "url": "https://github.com/docker/compose/releases/latest/download/docker-compose-linux-x86_64",
+      "healthy": true
+    },
+    {
+      "name": "podman-remote-static-linux_amd64.tar.gz",
+      "version": "20260521075408",
+      "size": 22718336,
+      "checksum": "",
+      "url": "https://github.com/containers/podman/releases/latest/download/podman-remote-static-linux_amd64.tar.gz",
+      "healthy": true
+    },
+    {
+      "name": "odoo_18.0.latest.tar.gz",
+      "version": "20260521074856",
+      "size": 332685332,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/18.0/nightly/src/odoo_18.0.latest.tar.gz",
+      "healthy": true
+    },
+    {
+      "name": "test.txt",
+      "version": "20260520100002",
+      "size": 18,
+      "checksum": "",
+      "healthy": false
+    },
+    {
+      "name": "Rocky-9.4-x86_64-minimal.iso",
+      "version": "",
+      "size": 0,
+      "checksum": "",
+      "url": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.4-x86_64-minimal.iso",
+      "healthy": false
+    },
+    {
+      "name": "Fedora-Server-dvd-x86_64-40-1.1.iso",
+      "version": "",
+      "size": 0,
+      "checksum": "",
+      "url": "https://download.fedoraproject.org/pub/fedora/linux/releases/40/Server/x86_64/iso/Fedora-Server-dvd-x86_64-40-1.1.iso",
+      "healthy": false
+    },
+    {
+      "name": "index.sh",
+      "version": "",
+      "size": 0,
+      "checksum": "",
+      "url": "https://get.docker.com/index.sh",
+      "healthy": false
+    },
+    {
+      "name": "OPNsense-26.1.6-dvd-amd64.iso.bz2",
+      "version": "20260521124502",
+      "size": 542126762,
+      "checksum": "",
+      "healthy": false,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "dd04854dcc1e192fe9d2734c8c5c58f9b57e2b51fcca609ba5d7b4db47baa45f",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "bc44a0ca7ce3edeb7e3303a2af64d4866a2b83fb1e3e55ae5648750a57531e71",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "f29ca99cfa32594cc253da1f3120d8bde1fbff41b5ca4720593d49b74ac9ffb6",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part2"
+        },
+        {
+          "index": 3,
+          "size": 104857600,
+          "checksum": "5ccb0e8f28c9c087757f12e7d2dee4bf09835449f203bfa6caedfd5ce9d4ef9c",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part3"
+        },
+        {
+          "index": 4,
+          "size": 104857600,
+          "checksum": "59d20847a42335e66652709586fb3e6033497e00c981c5c3173f803be4e3eeef",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part4"
+        },
+        {
+          "index": 5,
+          "size": 17838762,
+          "checksum": "8a85980806102404451b6e4c8d5e750383bbf2704d9c2c7ea63c2a7fa441ce5b",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part5"
+        }
+      ]
+    }
+  ]
+}
