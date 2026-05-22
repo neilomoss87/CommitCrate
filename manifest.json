@@ -170,7 +170,11 @@
       "name": "README.md",
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
       "version": "20260521143150",
+=======
+      "version": "20260522014328",
+>>>>>>> local
 =======
       "version": "20260522014328",
 >>>>>>> local
@@ -226,7 +230,11 @@
     },
     {
       "name": "COPYING",
+<<<<<<< main
       "version": "20260522014341",
+=======
+      "version": "20260522014354",
+>>>>>>> local
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
