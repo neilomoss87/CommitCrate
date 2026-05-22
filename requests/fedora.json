@@ -1,5 +1,5 @@
 {
   "uuid": "fedora",
-  "url": "https://download.rockylinux.org/pub/rocky/9/isos/x86_64/Rocky-9.7-x86_64-dvd.iso",
-  "request_id": "debcd14f-b748-aa5c-51a0-3b6e27711a07"
+  "url": "https://nightly.odoo.com/16.0/nightly/tgz/odoo_17.0.20260401.tar.gz",
+  "request_id": "82be4979-341c-9cb3-a05a-8223da6b8c6c"
 }
