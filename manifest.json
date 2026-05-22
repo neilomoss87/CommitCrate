@@ -171,6 +171,21 @@
           "file_name": "odoo_16.0.latest.tar.gz.part2"
         }
       ]
+    },
+    {
+      "name": "test.txt",
+      "version": "20260522042918",
+      "size": 18,
+      "checksum": "",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 18,
+          "checksum": "d90ef1651fd9e7563e1a1450a16bd784e9a7e2d3df0f5a798dfc1bdf70a64aea",
+          "file_name": "test.txt.part0"
+        }
+      ]
     }
   ]
 }
