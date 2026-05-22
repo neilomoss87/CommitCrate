@@ -18,7 +18,7 @@
     },
     {
       "name": "COPYING",
-      "version": "20260522042855",
+      "version": "20260522043051",
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
@@ -68,7 +68,7 @@
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260522042809",
+      "version": "20260522043102",
       "size": 321183237,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
