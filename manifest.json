@@ -5,7 +5,11 @@
   "files": [
     {
       "name": "COPYING",
+<<<<<<< main
       "version": "20260522042514",
+=======
+      "version": "20260522042522",
+>>>>>>> local
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
@@ -20,5 +24,9 @@
       ]
     }
   ]
+<<<<<<< main
+}
+>>>>>>> local
+=======
 }
 >>>>>>> local
