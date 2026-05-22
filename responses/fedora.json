@@ -1,6 +1,5 @@
 {
   "uuid": "fedora",
-  "branch": "",
-  "status": "error",
-  "error": "download failed after 3 attempts: URL returned bad status: 404 Not Found"
+  "branch": "session/fedora",
+  "status": "ready"
 }
