@@ -1,7 +1,0 @@
-{
-  "uuid": "fedora",
-  "branch": "",
-  "status": "error",
-  "error": "download failed after 3 attempts: write error: write /opt/commitcrate/repo/temp/fedora/odoo_17.0.20260401.tar.gz: no space left on device",
-  "request_id": "b982b873-2e0e-4a5f-6b98-9b663c658df0"
-}
