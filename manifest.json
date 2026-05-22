@@ -168,7 +168,11 @@
     },
     {
       "name": "README.md",
+<<<<<<< main
       "version": "20260521143150",
+=======
+      "version": "20260522005735",
+>>>>>>> local
       "size": 3662,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/README.md",
