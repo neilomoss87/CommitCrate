@@ -38,37 +38,11 @@
       "size": 320626748,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
-      "healthy": true,
-      "chunks": [
-        {
-          "index": 0,
-          "size": 104857600,
-          "checksum": "5bd43df4a3e60186e9f1515a0cf8634b6b3f0af500ee8b256fa0c0ef6316f463",
-          "file_name": "odoo_19.0.20260516.tar.gz.part0"
-        },
-        {
-          "index": 1,
-          "size": 104857600,
-          "checksum": "543feff18f5b5afb1d92fe3bef49a89a9e47bb9d3b170bf6a9ac43bf065c2c5c",
-          "file_name": "odoo_19.0.20260516.tar.gz.part1"
-        },
-        {
-          "index": 2,
-          "size": 104857600,
-          "checksum": "5037f4df70cf31b23a70c3dc8898713f041b866980516921ebeff31e9610e5ff",
-          "file_name": "odoo_19.0.20260516.tar.gz.part2"
-        },
-        {
-          "index": 3,
-          "size": 6053948,
-          "checksum": "ce937e43c34ccf05020ee49b3128dea6ca08114b19d0f2ca2b797f9719696919",
-          "file_name": "odoo_19.0.20260516.tar.gz.part3"
-        }
-      ]
+      "healthy": true
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260522043102",
+      "version": "20260522043850",
       "size": 321183237,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
@@ -105,87 +79,21 @@
       "version": "20260522042911",
       "size": 542126762,
       "checksum": "",
-      "healthy": true,
-      "chunks": [
-        {
-          "index": 0,
-          "size": 104857600,
-          "checksum": "dd04854dcc1e192fe9d2734c8c5c58f9b57e2b51fcca609ba5d7b4db47baa45f",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part0"
-        },
-        {
-          "index": 1,
-          "size": 104857600,
-          "checksum": "bc44a0ca7ce3edeb7e3303a2af64d4866a2b83fb1e3e55ae5648750a57531e71",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part1"
-        },
-        {
-          "index": 2,
-          "size": 104857600,
-          "checksum": "f29ca99cfa32594cc253da1f3120d8bde1fbff41b5ca4720593d49b74ac9ffb6",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part2"
-        },
-        {
-          "index": 3,
-          "size": 104857600,
-          "checksum": "5ccb0e8f28c9c087757f12e7d2dee4bf09835449f203bfa6caedfd5ce9d4ef9c",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part3"
-        },
-        {
-          "index": 4,
-          "size": 104857600,
-          "checksum": "59d20847a42335e66652709586fb3e6033497e00c981c5c3173f803be4e3eeef",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part4"
-        },
-        {
-          "index": 5,
-          "size": 17838762,
-          "checksum": "8a85980806102404451b6e4c8d5e750383bbf2704d9c2c7ea63c2a7fa441ce5b",
-          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part5"
-        }
-      ]
+      "healthy": true
     },
     {
       "name": "odoo_16.0.latest.tar.gz",
       "version": "20260522042915",
       "size": 281548914,
       "checksum": "",
-      "healthy": true,
-      "chunks": [
-        {
-          "index": 0,
-          "size": 104857600,
-          "checksum": "e492745376941d646e9704837554a3dbf9c6bbde2232b566569aa481acf262c8",
-          "file_name": "odoo_16.0.latest.tar.gz.part0"
-        },
-        {
-          "index": 1,
-          "size": 104857600,
-          "checksum": "07661ed5521a5227b2fae7820f04cc93b70c37fc1f143e44eae6fe0649512eee",
-          "file_name": "odoo_16.0.latest.tar.gz.part1"
-        },
-        {
-          "index": 2,
-          "size": 71833714,
-          "checksum": "73d12a6749eccb9f748c03a52b0149f37372a287d8e37c4f718deadae5d4e84a",
-          "file_name": "odoo_16.0.latest.tar.gz.part2"
-        }
-      ]
+      "healthy": true
     },
     {
       "name": "test.txt",
       "version": "20260522042918",
       "size": 18,
       "checksum": "",
-      "healthy": true,
-      "chunks": [
-        {
-          "index": 0,
-          "size": 18,
-          "checksum": "d90ef1651fd9e7563e1a1450a16bd784e9a7e2d3df0f5a798dfc1bdf70a64aea",
-          "file_name": "test.txt.part0"
-        }
-      ]
+      "healthy": true
     }
   ]
 }
