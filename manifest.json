@@ -161,7 +161,11 @@
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
+<<<<<<< main
       "version": "20260522014812",
+=======
+      "version": "20260522014830",
+>>>>>>> local
       "size": 321183237,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
@@ -243,7 +247,10 @@
         }
       ]
 <<<<<<< main
+<<<<<<< main
 =======
+=======
+>>>>>>> local
     },
     {
       "name": "COPYING",
@@ -260,6 +267,9 @@
           "file_name": "COPYING.part0"
         }
       ]
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
     }
   ]
