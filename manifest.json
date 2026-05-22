@@ -18,7 +18,7 @@
     },
     {
       "name": "COPYING",
-      "version": "20260522042728",
+      "version": "20260522042855",
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
@@ -34,7 +34,7 @@
     },
     {
       "name": "odoo_19.0.20260516.tar.gz",
-      "version": "20260522042719",
+      "version": "20260522042831",
       "size": 320626748,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
@@ -68,7 +68,7 @@
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260522042744",
+      "version": "20260522042809",
       "size": 321183237,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
@@ -97,6 +97,78 @@
           "size": 6610437,
           "checksum": "531b6b0d0480c46c1a10bfabad0bbecceef110ca5a444940973f846ff8fa008e",
           "file_name": "odoo_19.0.20260518.tar.gz.part3"
+        }
+      ]
+    },
+    {
+      "name": "OPNsense-26.1.6-dvd-amd64.iso.bz2",
+      "version": "20260522042911",
+      "size": 542126762,
+      "checksum": "",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "dd04854dcc1e192fe9d2734c8c5c58f9b57e2b51fcca609ba5d7b4db47baa45f",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "bc44a0ca7ce3edeb7e3303a2af64d4866a2b83fb1e3e55ae5648750a57531e71",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "f29ca99cfa32594cc253da1f3120d8bde1fbff41b5ca4720593d49b74ac9ffb6",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part2"
+        },
+        {
+          "index": 3,
+          "size": 104857600,
+          "checksum": "5ccb0e8f28c9c087757f12e7d2dee4bf09835449f203bfa6caedfd5ce9d4ef9c",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part3"
+        },
+        {
+          "index": 4,
+          "size": 104857600,
+          "checksum": "59d20847a42335e66652709586fb3e6033497e00c981c5c3173f803be4e3eeef",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part4"
+        },
+        {
+          "index": 5,
+          "size": 17838762,
+          "checksum": "8a85980806102404451b6e4c8d5e750383bbf2704d9c2c7ea63c2a7fa441ce5b",
+          "file_name": "OPNsense-26.1.6-dvd-amd64.iso.bz2.part5"
+        }
+      ]
+    },
+    {
+      "name": "odoo_16.0.latest.tar.gz",
+      "version": "20260522042915",
+      "size": 281548914,
+      "checksum": "",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "e492745376941d646e9704837554a3dbf9c6bbde2232b566569aa481acf262c8",
+          "file_name": "odoo_16.0.latest.tar.gz.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "07661ed5521a5227b2fae7820f04cc93b70c37fc1f143e44eae6fe0649512eee",
+          "file_name": "odoo_16.0.latest.tar.gz.part1"
+        },
+        {
+          "index": 2,
+          "size": 71833714,
+          "checksum": "73d12a6749eccb9f748c03a52b0149f37372a287d8e37c4f718deadae5d4e84a",
+          "file_name": "odoo_16.0.latest.tar.gz.part2"
         }
       ]
     }
