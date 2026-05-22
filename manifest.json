@@ -168,7 +168,11 @@
     },
     {
       "name": "README.md",
+<<<<<<< main
       "version": "20260521143150",
+=======
+      "version": "20260522013932",
+>>>>>>> local
       "size": 3662,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/README.md",
@@ -187,7 +191,11 @@
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
       "version": "20260522013839",
+=======
+      "version": "20260522013854",
+>>>>>>> local
 =======
       "version": "20260522013854",
 >>>>>>> local
@@ -229,16 +237,22 @@
       ]
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
 =======
     },
     {
       "name": "COPYING",
       "version": "20260522013912",
 =======
+=======
+>>>>>>> local
     },
     {
       "name": "COPYING",
       "version": "20260522013924",
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
       "size": 18765,
       "checksum": "",
@@ -253,6 +267,9 @@
         }
       ]
 <<<<<<< main
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
 =======
 >>>>>>> local
