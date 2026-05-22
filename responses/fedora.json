@@ -1,0 +1,7 @@
+{
+  "uuid": "fedora",
+  "branch": "",
+  "status": "error",
+  "error": "URL validation failed: URL returned bad status: 404 Not Found",
+  "request_id": "70c5acea-5492-5a0d-a5a8-3e7c893094eb"
+}
