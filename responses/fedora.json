@@ -1,7 +1,0 @@
-{
-  "uuid": "fedora",
-  "branch": "",
-  "status": "error",
-  "error": "download failed after 3 attempts: context deadline exceeded (Client.Timeout or context cancellation while reading body)",
-  "request_id": "74f01ffd-fd30-ee68-4654-a4c9d0995719"
-}
