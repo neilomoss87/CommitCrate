@@ -169,7 +169,11 @@
     },
     {
       "name": "README.md",
+<<<<<<< main
       "version": "20260521143150",
+=======
+      "version": "20260522005449",
+>>>>>>> local
       "size": 3662,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/README.md",
@@ -187,6 +191,7 @@
       "name": "odoo_19.0.20260516.tar.gz",
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
       "version": "20260522005143",
       "size": 320626748,
       "checksum": "",
@@ -194,6 +199,9 @@
       "healthy": true
 =======
       "version": "20260522005422",
+=======
+      "version": "20260522005439",
+>>>>>>> local
 =======
       "version": "20260522005439",
 >>>>>>> local
@@ -228,6 +236,9 @@
         }
       ]
 <<<<<<< main
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
 =======
 >>>>>>> local
