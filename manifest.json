@@ -162,6 +162,7 @@
     {
       "name": "odoo_19.0.20260518.tar.gz",
 <<<<<<< main
+<<<<<<< main
       "version": "20260522013947",
 =======
       "version": "20260522014002",
@@ -212,21 +213,25 @@
 =======
       "version": "20260522013932",
 >>>>>>> local
+=======
+      "version": "20260522014002",
+      "size": 321183237,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
+      "healthy": true
+    },
+    {
+      "name": "README.md",
+      "version": "20260522013932",
+>>>>>>> local
       "size": 3662,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/README.md",
-      "healthy": true,
-      "chunks": [
-        {
-          "index": 0,
-          "size": 3662,
-          "checksum": "4dddaa908cc3407fe752784073847ca4ba949793800a686bed696f93a64534a0",
-          "file_name": "README.md.part0"
-        }
-      ]
+      "healthy": true
     },
     {
       "name": "odoo_19.0.20260516.tar.gz",
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -299,10 +304,18 @@
 >>>>>>> local
 =======
 >>>>>>> local
+=======
+      "version": "20260522013854",
+      "size": 320626748,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
+      "healthy": true
+>>>>>>> local
     },
     {
       "name": "COPYING",
       "version": "20260522013924",
+<<<<<<< main
 <<<<<<< main
 <<<<<<< main
 <<<<<<< main
@@ -337,6 +350,12 @@
 =======
 >>>>>>> local
 =======
+>>>>>>> local
+=======
+      "size": 18765,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
+      "healthy": true
 >>>>>>> local
     }
   ]
