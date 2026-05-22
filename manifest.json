@@ -1,1 +1,104 @@
-{"files": []}
+{
+  "files": [
+    {
+      "name": "README.md",
+      "version": "20260522042653",
+      "size": 3662,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/README.md",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 3662,
+          "checksum": "4dddaa908cc3407fe752784073847ca4ba949793800a686bed696f93a64534a0",
+          "file_name": "README.md.part0"
+        }
+      ]
+    },
+    {
+      "name": "COPYING",
+      "version": "20260522042728",
+      "size": 18765,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 18765,
+          "checksum": "5b2198d1645f767585e8a88ac0499b04472164c0d2da22e75ecf97ef443ab32e",
+          "file_name": "COPYING.part0"
+        }
+      ]
+    },
+    {
+      "name": "odoo_19.0.20260516.tar.gz",
+      "version": "20260522042719",
+      "size": 320626748,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "5bd43df4a3e60186e9f1515a0cf8634b6b3f0af500ee8b256fa0c0ef6316f463",
+          "file_name": "odoo_19.0.20260516.tar.gz.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "543feff18f5b5afb1d92fe3bef49a89a9e47bb9d3b170bf6a9ac43bf065c2c5c",
+          "file_name": "odoo_19.0.20260516.tar.gz.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "5037f4df70cf31b23a70c3dc8898713f041b866980516921ebeff31e9610e5ff",
+          "file_name": "odoo_19.0.20260516.tar.gz.part2"
+        },
+        {
+          "index": 3,
+          "size": 6053948,
+          "checksum": "ce937e43c34ccf05020ee49b3128dea6ca08114b19d0f2ca2b797f9719696919",
+          "file_name": "odoo_19.0.20260516.tar.gz.part3"
+        }
+      ]
+    },
+    {
+      "name": "odoo_19.0.20260518.tar.gz",
+      "version": "20260522042744",
+      "size": 321183237,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "1d9966e7b6ad770d9e9288b70615514d5ce07205a585e9f474f3a47f81b13f4b",
+          "file_name": "odoo_19.0.20260518.tar.gz.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "945094144b9f825a86941d87d4df0f21f8bbc7a5b0505dafff0659cc1b5a5b4d",
+          "file_name": "odoo_19.0.20260518.tar.gz.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "98749826c1f79f676264cc44b877c1a3e885c37d6eea5e341face3b369a0d6dd",
+          "file_name": "odoo_19.0.20260518.tar.gz.part2"
+        },
+        {
+          "index": 3,
+          "size": 6610437,
+          "checksum": "531b6b0d0480c46c1a10bfabad0bbecceef110ca5a444940973f846ff8fa008e",
+          "file_name": "odoo_19.0.20260518.tar.gz.part3"
+        }
+      ]
+    }
+  ]
+}
