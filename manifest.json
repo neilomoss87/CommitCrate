@@ -186,6 +186,7 @@
     {
       "name": "odoo_19.0.20260516.tar.gz",
 <<<<<<< main
+<<<<<<< main
       "version": "20260522005143",
       "size": 320626748,
       "checksum": "",
@@ -193,6 +194,9 @@
       "healthy": true
 =======
       "version": "20260522005422",
+=======
+      "version": "20260522005439",
+>>>>>>> local
       "size": 320626748,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
@@ -223,6 +227,9 @@
           "file_name": "odoo_19.0.20260516.tar.gz.part3"
         }
       ]
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
     }
   ]
