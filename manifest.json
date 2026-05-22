@@ -2,7 +2,7 @@
   "files": [
     {
       "name": "README.md",
-      "version": "20260522042653",
+      "version": "20260522050019",
       "size": 3662,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/README.md",
@@ -18,7 +18,7 @@
     },
     {
       "name": "COPYING",
-      "version": "20260522043051",
+      "version": "20260522050108",
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
@@ -34,15 +34,41 @@
     },
     {
       "name": "odoo_19.0.20260516.tar.gz",
-      "version": "20260522042831",
+      "version": "20260522050041",
       "size": 320626748,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
-      "healthy": true
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 104857600,
+          "checksum": "5bd43df4a3e60186e9f1515a0cf8634b6b3f0af500ee8b256fa0c0ef6316f463",
+          "file_name": "odoo_19.0.20260516.tar.gz.part0"
+        },
+        {
+          "index": 1,
+          "size": 104857600,
+          "checksum": "543feff18f5b5afb1d92fe3bef49a89a9e47bb9d3b170bf6a9ac43bf065c2c5c",
+          "file_name": "odoo_19.0.20260516.tar.gz.part1"
+        },
+        {
+          "index": 2,
+          "size": 104857600,
+          "checksum": "5037f4df70cf31b23a70c3dc8898713f041b866980516921ebeff31e9610e5ff",
+          "file_name": "odoo_19.0.20260516.tar.gz.part2"
+        },
+        {
+          "index": 3,
+          "size": 6053948,
+          "checksum": "ce937e43c34ccf05020ee49b3128dea6ca08114b19d0f2ca2b797f9719696919",
+          "file_name": "odoo_19.0.20260516.tar.gz.part3"
+        }
+      ]
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260522043850",
+      "version": "20260522050155",
       "size": 321183237,
       "checksum": "",
       "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
@@ -94,6 +120,22 @@
       "size": 18,
       "checksum": "",
       "healthy": true
+    },
+    {
+      "name": "GIT-VERSION-GEN",
+      "version": "20260522050220",
+      "size": 2451,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/GIT-VERSION-GEN",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 2451,
+          "checksum": "9b8cb5e5755db13878f6abc87577a5c116d0031b1dc4bb4ce2d26936fb57bb20",
+          "file_name": "GIT-VERSION-GEN.part0"
+        }
+      ]
     }
   ]
 }
