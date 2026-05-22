@@ -161,10 +161,11 @@
     },
     {
       "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260521125311",
+      "version": "20260522005107",
       "size": 321183237,
       "checksum": "",
-      "healthy": false
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
+      "healthy": true
     },
     {
       "name": "README.md",
@@ -181,6 +182,14 @@
           "file_name": "README.md.part0"
         }
       ]
+    },
+    {
+      "name": "odoo_19.0.20260516.tar.gz",
+      "version": "20260522005143",
+      "size": 320626748,
+      "checksum": "",
+      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
+      "healthy": true
     }
   ]
 }
