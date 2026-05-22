@@ -186,7 +186,11 @@
       "name": "odoo_19.0.20260516.tar.gz",
 <<<<<<< main
 <<<<<<< main
+<<<<<<< main
       "version": "20260522013839",
+=======
+      "version": "20260522013854",
+>>>>>>> local
 =======
       "version": "20260522013854",
 >>>>>>> local
@@ -224,11 +228,18 @@
         }
       ]
 <<<<<<< main
+<<<<<<< main
 =======
     },
     {
       "name": "COPYING",
       "version": "20260522013912",
+=======
+    },
+    {
+      "name": "COPYING",
+      "version": "20260522013924",
+>>>>>>> local
       "size": 18765,
       "checksum": "",
       "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
@@ -241,6 +252,9 @@
           "file_name": "COPYING.part0"
         }
       ]
+<<<<<<< main
+>>>>>>> local
+=======
 >>>>>>> local
     }
   ]
