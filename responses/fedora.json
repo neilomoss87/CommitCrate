@@ -1,6 +1,7 @@
 {
   "uuid": "fedora",
-  "branch": "session/fedora",
-  "status": "ready",
-  "request_id": "e6a5cca2-7a97-7033-79fc-642fbaaefea0"
+  "branch": "",
+  "status": "error",
+  "error": "URL validation failed: URL returned bad status: 401 Unauthorized",
+  "request_id": "69dd02b0-b594-381a-d710-e3043faad8a4"
 }
