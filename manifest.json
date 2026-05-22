@@ -169,7 +169,11 @@
     {
       "name": "README.md",
 <<<<<<< main
+<<<<<<< main
       "version": "20260521143150",
+=======
+      "version": "20260522005735",
+>>>>>>> local
 =======
       "version": "20260522005735",
 >>>>>>> local
@@ -219,6 +223,25 @@
           "file_name": "odoo_19.0.20260516.tar.gz.part3"
         }
       ]
+<<<<<<< main
+=======
+    },
+    {
+      "name": "COPYING",
+      "version": "20260522005746",
+      "size": 18765,
+      "checksum": "",
+      "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
+      "healthy": true,
+      "chunks": [
+        {
+          "index": 0,
+          "size": 18765,
+          "checksum": "5b2198d1645f767585e8a88ac0499b04472164c0d2da22e75ecf97ef443ab32e",
+          "file_name": "COPYING.part0"
+        }
+      ]
+>>>>>>> local
     }
   ]
 }
