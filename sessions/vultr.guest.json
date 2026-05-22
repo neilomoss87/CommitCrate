@@ -1,0 +1,10 @@
+{
+  "id": "vultr.guest",
+  "requests": [],
+  "sync_list": [
+    "COPYING"
+  ],
+  "urls": [],
+  "invalid_urls": [],
+  "progress": {}
+}
