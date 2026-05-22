@@ -1,6 +1,7 @@
 {
   "uuid": "fedora",
   "branch": "",
-  "status": "processing",
+  "status": "error",
+  "error": "git push origin session/fedora failed: exit status 1 (output: remote: error: Trace: cafdca3b6b99ac78d8c4173df3391ce7691109481aa2f5e5da0010873e71039f        \nremote: error: See https://gh.io/lfs for more information.        \nremote: error: File temp/fedora/odoo_17.0.20260401.tar.gz is 277.95 MB; this exceeds GitHub's file size limit of 100.00 MB        \nremote: error: GH001: Large files detected. You may want to try Git Large File Storage - https://git-lfs.github.com.        \nTo github.com:neilomoss87/CommitCrate.git\n ! [remote rejected] session/fedora -\u003e session/fedora (pre-receive hook declined)\nerror: failed to push some refs to 'github.com:neilomoss87/CommitCrate.git'\n)",
   "request_id": "3c58bb54-db99-240b-f3d0-1b68f751c9fb"
 }
