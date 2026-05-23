@@ -1,7 +1,0 @@
-{
-  "uuid": "junie-deploy-test",
-  "branch": "",
-  "status": "error",
-  "error": "URL validation failed: URL returned bad status for https://raw.githubusercontent.com/neilomoss87/CommitCrate/main/README.md: 404 Not Found",
-  "request_id": "1107a7d1-2ff9-8b58-d122-1432126a09f6"
-}
