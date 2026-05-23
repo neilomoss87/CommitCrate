@@ -1,7 +1,0 @@
-{
-  "uuid": "fedora",
-  "branch": "",
-  "status": "error",
-  "error": "URL validation failed: URL returned bad status for https://raw.githubusercontent.com/neilomoss87/CommitCrate/main/README.md: 404 Not Found",
-  "request_id": "1dcc0df2-7883-b1dd-71de-7126c77feafd"
-}
