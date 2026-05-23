@@ -1,72 +1,11 @@
 {
   "files": [
     {
-      "name": "README.md",
-      "version": "20260522140734",
-      "size": 3662,
+      "name": "odoo_17.0.20260401.tar.gz",
+      "version": "20260523123057",
+      "size": 291452846,
       "checksum": "",
-      "url": "https://raw.githubusercontent.com/git/git/master/README.md",
-      "healthy": true
-    },
-    {
-      "name": "COPYING",
-      "version": "20260522115628",
-      "size": 18765,
-      "checksum": "",
-      "url": "https://raw.githubusercontent.com/git/git/master/COPYING",
-      "healthy": true
-    },
-    {
-      "name": "odoo_19.0.20260516.tar.gz",
-      "version": "20260522115642",
-      "size": 320626748,
-      "checksum": "",
-      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260516.tar.gz",
-      "healthy": true
-    },
-    {
-      "name": "odoo_19.0.20260518.tar.gz",
-      "version": "20260522115720",
-      "size": 321183237,
-      "checksum": "",
-      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260518.tar.gz",
-      "healthy": true
-    },
-    {
-      "name": "OPNsense-26.1.6-dvd-amd64.iso.bz2",
-      "version": "20260522042911",
-      "size": 542126762,
-      "checksum": "",
-      "healthy": true
-    },
-    {
-      "name": "odoo_16.0.latest.tar.gz",
-      "version": "20260522042915",
-      "size": 281548914,
-      "checksum": "",
-      "healthy": true
-    },
-    {
-      "name": "test.txt",
-      "version": "20260522042918",
-      "size": 18,
-      "checksum": "",
-      "healthy": true
-    },
-    {
-      "name": "GIT-VERSION-GEN",
-      "version": "20260522120036",
-      "size": 2451,
-      "checksum": "",
-      "url": "https://raw.githubusercontent.com/git/git/master/GIT-VERSION-GEN",
-      "healthy": true
-    },
-    {
-      "name": "odoo_19.0.20260521.tar.gz",
-      "version": "20260522120048",
-      "size": 321211250,
-      "checksum": "",
-      "url": "https://nightly.odoo.com/19.0/nightly/tgz/odoo_19.0.20260521.tar.gz",
+      "url": "https://nightly.odoo.com/17.0/nightly/tgz/odoo_17.0.20260401.tar.gz",
       "healthy": true
     }
   ]
