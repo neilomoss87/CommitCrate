@@ -1,6 +1,6 @@
 {
   "uuid": "final-test",
-  "branch": "",
-  "status": "processing",
+  "branch": "client/final-test/rx",
+  "status": "ready",
   "request_id": "c8ee633b-9b03-9f86-ace8-d025e432b8ba"
 }
