@@ -1,6 +1,6 @@
 {
   "uuid": "fedora",
-  "branch": "",
-  "status": "processing",
+  "branch": "client/fedora/rx",
+  "status": "ready",
   "request_id": "0d8269e1-a660-5a58-d2b2-de52a00577fa"
 }
