@@ -1,9 +1,6 @@
 {
   "uuid": "fedora",
-  "branch": "",
-  "status": "processing",
-  "request_id": "c755cb36-eeb3-3110-d12b-5b9b496a03a9",
-  "progress": 95.55413022111988,
-  "total_size": 291452846,
-  "downloaded_size": 278495232
+  "branch": "client/fedora/rx",
+  "status": "ready",
+  "request_id": "c755cb36-eeb3-3110-d12b-5b9b496a03a9"
 }
