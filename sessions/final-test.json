@@ -1,0 +1,12 @@
+{
+  "id": "final-test",
+  "requests": [
+    "odoo_17.0.20260401.tar.gz"
+  ],
+  "sync_list": [
+    "odoo_17.0.20260401.tar.gz"
+  ],
+  "urls": [],
+  "invalid_urls": [],
+  "progress": {}
+}
